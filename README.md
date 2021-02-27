@@ -1,5 +1,5 @@
 # How to install
-Download files and extract to any directory you want.
+Download files and extract to any directory you want.  
 Just run "Start.bat" then it will install and run server automatically.
 
 # How to change server config
